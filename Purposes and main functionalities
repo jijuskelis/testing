@@ -1,0 +1,7 @@
+Purposes and main functionalities
+Central entry point for all tests
+Management and control of the nodes / environment where the browsers run
+Scaling
+Running tests in parallel
+Cross-platform testing
+Load balancing
